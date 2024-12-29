@@ -9,3 +9,7 @@ open cmd
 type gh auth login
 copy and paste the code in github
 
+Pull repositiry
+================
+open cmd from where you need to copy repository
+git clone {insert url here}
